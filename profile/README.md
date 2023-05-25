@@ -2,7 +2,7 @@
 
 Ghostery is the web’s largest, most user-friendly [privacy tool](https://www.ghostery.com/ghostery-ad-blocker). Ghostery is used by millions of people around the world to reveal the invisible web of technologies tracking them when they visit a website.
 
-## Get Invovled
+## Get Involved
 We make the web cleaner, faster, and more private with our open source products:
 * [Extension](https://github.com/ghostery/ghostery-extension)
 * Mobile & Desktop Browsers
