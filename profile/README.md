@@ -10,7 +10,7 @@ Since 2009, our projects have enhanced web privacy and transparency.
 
 We are known primarily for our [browser extension](https://www.ghostery.com/ghostery-ad-blocker), which blocks unwanted [trackers](https://www.ghostery.com/blog/how-we-at-ghostery-protect-users-from-web-tracking) and shows users [who](https://www.ghostery.com/blog/tracking-the-trackers-2020) is collecting their data.
 
-Ghostery also catalogs site domains through our database, [WhoTracks.Me](https://whotracks.me/), to reveal the third-party data collection behind websites. We 'tracks the trackers' and give users control over their data, making the web more private for everyone.
+Ghostery also catalogs site domains through our database, [WhoTracks.Me](https://whotracks.me/), to reveal the third-party data collection behind websites. We 'track the trackers' and give users control over their data, making the web more private for everyone.
 
 We make the web cleaner and faster with our:
 * [Browser Extension](https://github.com/ghostery/ghostery-extension)
