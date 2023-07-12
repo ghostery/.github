@@ -12,7 +12,7 @@ We are known primarily for our [browser extension](https://www.ghostery.com/ghos
 
 Ghostery also catalogs site domains through our database, [WhoTracks.Me](https://whotracks.me/), to reveal the third-party data collection behind websites. We 'tracks the trackers' and give users control over their data, making the web more private for everyone.
 
-We make the web cleaner and faster with our open-source products:
+We make the web cleaner and faster with our:
 * [Browser Extension](https://github.com/ghostery/ghostery-extension)
 * Mobile & Desktop Browsers
   * [Desktop](https://github.com/ghostery/user-agent-desktop) | [Android](https://github.com/ghostery/user-agent-android) | [iOS](https://github.com/ghostery/user-agent-ios)
