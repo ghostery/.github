@@ -8,17 +8,17 @@ Ghostery is the web’s most user-friendly [privacy tool](https://www.ghostery.c
 
 Since 2009, our projects have enhanced web privacy and transparency.
 
-We are known primarily for our [browser extension](https://www.ghostery.com/ghostery-ad-blocker), which blocks unwanted [trackers](https://www.ghostery.com/blog/how-we-at-ghostery-protect-users-from-web-tracking) and shows users [who](https://www.ghostery.com/blog/tracking-the-trackers-2020) is collecting their data. We also provide our [web browser](https://www.ghostery.com/ghostery-private-browser), which is built on [Firefox](https://www.mozilla.org/en-US/firefox/new/) and maximizes speed, privacy and security.
+We are known primarily for our [browser extension](https://www.ghostery.com/ghostery-ad-blocker), which blocks unwanted [trackers](https://www.ghostery.com/blog/how-we-at-ghostery-protect-users-from-web-tracking) and shows users [who](https://www.ghostery.com/blog/tracking-the-trackers-2020) is collecting their data.
 
-Ghostery catalogs site domains through our database, [WhoTracks.Me](https://whotracks.me/), to reveal the third-party data collection behind websites. We "track the trackers" and give users control over their data, making the web more private for everyone.
+Ghostery catalogs site domains through our database, [ghostery.com/whotracksme](https://www.ghostery.com/whotracksme/), to reveal the third-party data collection behind websites. We "track the trackers" and give users control over their data, making the web more private for everyone.
 
 ### Projects
 
 We make the web cleaner and faster with our:
 * [Browser Extension](https://github.com/ghostery/ghostery-extension)
-* Mobile & Desktop Browsers
-  * [Desktop](https://github.com/ghostery/user-agent-desktop) | [Android](https://github.com/ghostery/user-agent-android) | [iOS](https://github.com/ghostery/user-agent-ios)
 * [Tracker Database](https://github.com/ghostery/trackerdb)
+* [WhoTracks.Me Statistical Reports](https://github.com/whotracksme/whotracks.me)
+* [Adblocker](https://github.com/ghostery/adblocker)
 
 ### Get Involved
 Contribute to our open-source projects:
